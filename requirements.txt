@@ -1,0 +1,11 @@
+shap>=0.45,<1
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+streamlit
+plotly
+requests
+joblib
+matplotlib
