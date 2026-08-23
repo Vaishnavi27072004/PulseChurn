@@ -1,4 +1,4 @@
-# 📡 TelcoPulse — Interpretable Customer Churn System
+# 📡 PulseChurn — Interpretable Customer Churn System
 
 An end-to-end machine learning pipeline designed to predict customer churn and mathematically explain the specific factors driving individual risk scores.
 
