@@ -35,8 +35,8 @@ Clean, user-friendly interface to quickly search records and interpret the under
 ### **1. Clone / Extract Project**
 
 ```bash
-git clone https://github.com/Vaishnavi27072004/TelcoPulse.git
-cd TelcoPulse
+git clone https://github.com/Vaishnavi27072004/PulseChurn.git
+cd PulseChurn
 ```
 
 ### **2. Create Virtual Environment**
@@ -121,7 +121,7 @@ streamlit run 5_dashboard.py
 ## 📁 Project Structure
 
 ```text
-TelcoPulse/
+PulseChurn/
 │
 ├── data/
 │   └── raw/
@@ -187,7 +187,7 @@ All preprocessing transformations are fitted exclusively on the training data to
 
 ## 📊 Model Interpretation
 
-TelcoPulse provides not only a churn probability but also an explanation of **why a particular customer receives that risk score**.
+PulseChurn provides not only a churn probability but also an explanation of **why a particular customer receives that risk score**.
 
 The system calculates local feature contributions using the Logistic Regression coefficients and displays the factors that increase or decrease the customer's churn risk.
 
